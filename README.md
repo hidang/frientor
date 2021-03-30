@@ -6,8 +6,10 @@
 
 - Clone the repository frientor
 
+If you want to clone a repository including its submodules you can use the --recursive parameter.
+
 ```
-git clone https://github.com/hidang/frientor.git
+git clone --recursive https://github.com/hidang/frientor.git
 ```
 
 ## Install dependencies
