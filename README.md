@@ -1,4 +1,6 @@
-# Frientor
+# FRIENTOR
+
+🤗 A social learning platform - Project of DSC HCMUIT
 
 # Getting started
 
