@@ -1,0 +1,6 @@
+[submodule "frientor-server"]
+	path = frientor-server
+	url = https://github.com/hidang/frientor-server.git
+[submodule "frientor-client"]
+	path = frientor-client
+	url = https://github.com/hidang/frientor-client.git

@@ -1,1 +1,1 @@
-# frientor
+# Frientor
